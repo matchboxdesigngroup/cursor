@@ -1,0 +1,82 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Writing style guide
+
+## Voice
+
+The Matchbox voice strives to be concise, direct and precise. The goal is to provide information that is easy to search and scan.
+
+The voice in documentation should be conversational but brief, friendly but succinct.
+
+## Language
+
+Matchbox documentation should be clear and easy to understand. The guidelines below help us achieve this goal through consistency.
+
+- Avoid unnecessary words.
+- Be clear, concise and stick to the goal of the topic.
+- Write in active voice.
+- Write in the imparative mood when giving commands, instructions, making requests or giving warnings.
+- Write in the present tense.
+- Write in US English with US grammar.
+- Do not use emojis in documentation or code comments.
+
+## Acronyms
+
+- If you use an acronym, spell it out in its first use on the page.
+- You do not need to spell it out more than once on a page.
+- When possible, avoid acronyms in headings.
+
+## Capitalization
+
+- Use sentence case for headings.
+- Capitalize the first word of each list item.
+
+## UI text
+
+- When referring to specific user interface text, like a button label or menu item, use the same capitalization displayed in the user interface.
+
+## Emphasis
+
+- Use bold rather than italic to provide emphasis.
+
+## Lists
+
+- Always start list items with a capital letter.
+- End each list item with a period.
+- Majority rules. Use either full sentences or all fragments. Avoid a mix.
+- Use a period after every sentence. Do not use commas or semicolons.
+- Use ordered lists for a sequence of steps.
+- Use unordered lists when the steps do not need to be completed in order.
+
+### Order
+
+- Use alphabetical order when the sequence is not important.
+
+## Numbers
+
+- When using numbers in text, spell out zero through nine, and use numbers for 10 and greater or anything less than zero.
+- When starting a heading with a number, use the number followed by a period and a space (e.g., "1. Introduction" not "1 Introduction").
+
+## Punctuation
+
+- End full sentences with a period.
+- End questions with a question mark.
+- Do not use repetitive punctuation at the end of a sentence.
+- Do not use serial (Oxford) commas before the final “and” or “or” in a list of three or more.
+- Use one space between sentences.
+- Do not use non-breaking spaces. Use standard spaces instead.
+
+## Formatting
+
+- Do not change the text color.
+- Use “Align left” text alignment.
+- Use tab to indent, not spaces.
+
+### Markdown
+
+- End each file with a blank line.
+- Add a blank line after a heading.
+- Add a blank line befor a list.
